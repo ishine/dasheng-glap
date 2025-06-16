@@ -207,6 +207,12 @@ accelerate launch run.py translate_sonar  data/WavCaps/freesound/freesound_train
 
 ## Citation
 
-Coming 
 ```bibtex
+@misc{2506.11350,
+Author = {Heinrich Dinkel and Zhiyong Yan and Tianzi Wang and Yongqing Wang and Xingwei Sun and Yadong Niu and Jizhong Liu and Gang Li and Junbo Zhang and Jian Luan},
+Title = {GLAP: General contrastive audio-text pretraining across domains and languages},
+Year = {2025},
+Eprint = {arXiv:2506.11350},
+}
+
 ```
