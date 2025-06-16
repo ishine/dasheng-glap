@@ -7,7 +7,7 @@
     <b><em>Generalized Language Audio Pretraining</em></b>
     </p>
     </p>
-    <a href="https://arxiv.org/abs/2506.11350"><img src="https://img.shields.io/badge/" alt="version"></a>
+    <a href="https://arxiv.org/abs/2506.11350"><img src="https://img.shields.io/badge/arXiv-2506.11350-b31b1b" alt="version"></a>
     <a href="https://github.com/xiaomi/glap"><img src="https://img.shields.io/badge/Platform-linux-lightgrey" alt="version"></a>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.10+-orange" alt="version"></a>
     <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-2.0+-brightgreen" alt="python"></a>
